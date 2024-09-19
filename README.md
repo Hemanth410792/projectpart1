@@ -23,6 +23,8 @@ AWS S3 was used for data storage with three distinct buckets:
 - **Raw Bucket**: Stores unprocessed data.
 - **Landing Bucket**: Contains data post-initial processing and staging.
 - **Curated Bucket**: Holds processed data ready for analysis.
+  <img width="432" alt="image" src="https://github.com/user-attachments/assets/e2dfdd0c-ac5b-47c0-81ea-2000c14c9bbd">
+
 
 ### 4. Data Preparation
 AWS DataBrew was used to clean and transform the data, applying standardization and filtering irrelevant data points.
